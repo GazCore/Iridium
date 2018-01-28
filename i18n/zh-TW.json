@@ -167,7 +167,7 @@
     },
     "comments_visibility": {
         "label": "Comment section:",
-        "button_show_comments": "Show comments",
+        "button_show_comments": "顯示評論",
         "options": [
             "顯示",
             "隱藏",
